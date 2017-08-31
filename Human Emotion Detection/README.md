@@ -23,7 +23,3 @@ You have to request for access to the dataset or you can get it on [Kraggle](htt
 ```bash
 $ python emotion_recognition.py poc
 ```
-
-## Paper
-
-[Link](https://github.com/isseu/emotion-recognition-neural-networks/blob/master/paper/Report_NN.pdf)
