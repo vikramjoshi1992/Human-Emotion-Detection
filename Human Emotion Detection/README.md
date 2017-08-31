@@ -3,14 +3,10 @@
 
 This repository is the out project about mood recognition using convolutional neural network for the course Seminar Neural Networks at TU Delft.
 
-![Angry Test](https://raw.githubusercontent.com/isseu/emotion-recognition-neural-networks/master/paper/angry.png)
-
  67% Accuracy
 
- ![Angry Test](https://raw.githubusercontent.com/isseu/emotion-recognition-neural-networks/master/paper/matrix_final.png)
 
 ## Dependencies
-
 - [NumPy](http://docs.scipy.org/doc/numpy-1.10.1/user/install.html)
 - [Tensorflow](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html)
 - [TFLearn](https://github.com/tflearn/tflearn#installation)
